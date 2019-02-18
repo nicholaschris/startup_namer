@@ -11,6 +11,7 @@ These are the resources that I've been through so far.
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Codelab part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 - [Layout tutorial](https://flutter.io/docs/development/ui/layout/tutorial)
+- [Add interactivity](https://flutter.io/docs/development/ui/interactive)
 
 ## TODO: 
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
